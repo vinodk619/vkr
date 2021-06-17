@@ -613,3 +613,51 @@ git status
 git config --list
 cat f1
 exit
+git 
+git --version
+git branch
+git config --global user.name "vinod"
+git config --list
+git config --global user.email "vinodkumarreddy@gmail.com"
+git config --list
+git status
+git add .
+git staus
+git status
+git commit -m "all fils commit"
+git staus
+git status
+git show
+git log
+git show d63e25fc
+git remote add origin https://github.com/vinodk619/vkr.git
+git push origin master
+git remote add origin https://github.com/vinodk619/vkr.git
+git push origin master
+git log
+ls
+cdf v
+cd v
+ls
+git --version
+git status
+ cd k
+ls
+cd r
+ls
+git status
+cat >> newf1
+ls
+cat newf1 
+cd .. ,..
+cd .. ..
+cd ..
+git status
+cd v
+git status
+cd k
+git statis
+git status
+cd ..
+cd
+exit
